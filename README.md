@@ -23,7 +23,7 @@ This project is part of my AWS cloud architecture portfolio. It showcases static
 
 ## 🖼️ Screenshots
 
-![Homepage](docs/screenshots/homepage.png)
+![Homepage](docs/screenshots/homepage.PNG)
 
 
 
