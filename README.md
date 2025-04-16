@@ -1,27 +1,30 @@
-# boho-frontend
-Frontend of BohoCreation e-commerce website
-# BohoCreation – Frontend 
+# 🌿 BohoCreation – Frontend
 
-A modern, handcrafted boho-style e-commerce frontend built using **React + Vite** and hosted on **AWS S3**. This project is part of my cloud architecture journey and demonstrates real-world deployment and GitHub collaboration.
+Frontend for the BohoCreation handcrafted e-commerce website built with **React + Vite** and hosted on **AWS S3**.
 
-##  Live Demo
+This project is part of my AWS cloud architecture portfolio. It showcases static site hosting, GitHub collaboration, and real-world deployment using modern frontend technologies.
+
+---
+
+## 🔗 Live Demo
+
 [Click here to visit the live site](http://bohocreation-frontend.s3-website-us-east-1.amazonaws.com/)
 
+---
+
 ## 🧰 Tech Stack
-- React + Vite
-- TailwindCSS *(if used)*
-- AWS S3 (Static Website Hosting)
-- GitHub
 
-## 📸 Screenshots
-_Add screenshots here later if needed_
+- ⚛️ React + Vite (Frontend framework)
+- 🎨 TailwindCSS (Optional styling framework)
+- ☁️ AWS S3 (Static Website Hosting)
+- 💻 GitHub (Version control)
 
-## 🛠️ Setup & Usage
+---
 
-Clone the repo and run locally:
+## 🖼️ Screenshots
 
-```bash
-git clone https://github.com/khan-ashifur/bohocreation.git
-cd bohocreation
-npm install
-npm run dev
+_Add screenshots here soon_
+
+```text
+docs/screenshots/homepage.png
+docs/screenshots/product.png
